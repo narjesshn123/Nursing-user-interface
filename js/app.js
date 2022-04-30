@@ -48,4 +48,4 @@ services_item.forEach((service,idx) => {
             }
         })
     })
-});
+})
